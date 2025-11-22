@@ -15,6 +15,6 @@
 
 Best YouTube Platforms to Learn 
 
-ADSA: Jenny's Lecture 
-DBMS: GATE Smashers
-DLCOA: GATE Smashers
+- ADSA: Jenny's Lecture
+- DBMS: GATE Smashers
+- DLCOA: GATE Smashers
