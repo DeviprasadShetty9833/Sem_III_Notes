@@ -3,3 +3,10 @@
 | Architecture (CA) is the `What`. | Organization (CO) is the `How`. |  
 | It's the functional behavior of the computer from the programmer's point of view. | It's how those architectural features are physically implemented in the hardware. |
 |  It includes the instruction set, addressing modes, and data types. | It deals with how components like the CPU, memory, and I/O are connected and work together. |
+
+# Von Neumann Architecture 
+
+The Von Neumann Architecture, proposed by John von Neumann in 1945, is the fundamental design upon which most modern computers are built. Its most revolutionary concept was the stored-program concept, where both data and instructions are stored in the same memory unit.
+
+- Both data and instructions are stored in the same main memory (RAM).
+- 
