@@ -6,7 +6,7 @@
 
 # Von Neumann Architecture 
 
-The Von Neumann Architecture, proposed by John von Neumann in 1945, is the fundamental design upon which most modern computers are built. Its most revolutionary concept was the stored-program concept, where both data and instructions are stored in the same memory unit.
-
+1. Stored-Program Concept
 - Both data and instructions are stored in the same main memory (RAM).
-- 
+
+2. 
