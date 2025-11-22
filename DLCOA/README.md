@@ -10,4 +10,10 @@
 - Both data and instructions are stored in the same main memory (RAM).
 
 2. Components
--  
+- Central Processing Unit (CPU): The brain of the computer. It consists of:
+  - Arithmetic Logic Unit (ALU): Performs all mathematical calculations (add, subtract) and logical operations (AND, OR, NOT).
+  - Control Unit (CU): Directs the operation of the processor. It interprets instructions and coordinates the activities of all other hardware components.
+  - Registers: Small, high-speed memory locations inside the CPU for temporary storage of data, instructions, and addresses (e.g., Program Counter, Instruction Register, Accumulator).
+- Memory Unit (Main Memory/RAM): A single, unified storage space for both data and instructions. Each location in memory has a unique address.
+- Input/Output (I/O) Systems: Allow the computer to communicate with the external world (e.g., keyboard, mouse, monitor, printer).
+- System Bus: A single communication path that connects all the major components.
