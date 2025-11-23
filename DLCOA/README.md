@@ -27,9 +27,7 @@
 - CPU -> read/write signal -> Control bus
 - For Writing - CPU -> data thru data bus -> [Memory Controller] -> Memory Location    ...(Opp for Reading)
 
-# Mod 5
 
-Of course. Here is a detailed explanation of **Memory Organization** from your document, structured in clear, exam-ready points.
 
 ### **Module 5: Memory Organization**
 
