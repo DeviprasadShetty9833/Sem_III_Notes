@@ -11,7 +11,7 @@
 
 ![images](https://github.com/DeviprasadShetty9833/Sem_III_Notes/blob/23aef3064bc453f481943a05e02ed83c772249b0/DLCOA/assets/VonNeumann.png)
 
-2. Components
+## Components
 - Central Processing Unit (CPU): The brain of the computer. It consists of:
   - Arithmetic Logic Unit (ALU): Performs all mathematical calculations (add, subtract) and logical operations (AND, OR, NOT).
   - Control Unit (CU): Directs the operation of the processor. It interprets instructions and coordinates the activities of all other hardware components.
@@ -19,3 +19,21 @@
 - Memory Unit (Main Memory/RAM): A single, unified storage space for both data and instructions. Each location in memory has a unique address.
 - Input/Output (I/O) Systems: Allow the computer to communicate with the external world (e.g., keyboard, mouse, monitor, printer).
 - System Bus: A single communication path that connects all the major components.
+
+## Communication between CPU & memory
+- Access data or instructions in memory - CPU -> memory location -> Address bus
+- CPU -> read/write signal -> Control bus
+- For Writing - CPU -> data thru data bus -> Memory Location 
+
+
+
+
+
+
+
+
+
+
+
+
+
